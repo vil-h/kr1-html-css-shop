@@ -25,7 +25,9 @@ HTML5, CSS3, Flexbox, Grid, БЭМ и немного JavaScript для мода�
 
 Откройте `index.html` в браузере. Устанавливать зависимости не нужно.
 
-После включения GitHub Pages сайт доступен по адресу: https://vil-h.github.io/frontend-shop/
+После включения GitHub Pages для ветки `main` сайт будет доступен по адресу: https://vil-h.github.io/kr1-html-css-shop/
+
+**Репозиторий:** https://github.com/vil-h/kr1-html-css-shop
 
 ## Изображения
 
